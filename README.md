@@ -1,4 +1,4 @@
-# ieee-python-workshop
+# IEEE Python Workshop - January 11th, 2018
 Files for Python Workshop
 
 - The .zip file contain the files you will be writing during the workshop
